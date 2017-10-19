@@ -28,3 +28,5 @@ Future implementations:
 6) Expandable list view with details of each day;
 7) Graph showing temperature oscilation during a day;
 8) Notification tomorrow's weather;
+
+There are some screenshots of the working app inside the "prints" folder.
