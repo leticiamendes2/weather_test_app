@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5DBCD2</color>
+    <color name="colorThunderstorm">#2D3656</color>
+    <color name="colorDrizzle">#8BAEAA</color>
+    <color name="colorRain">#679883</color>
+    <color name="colorSnow">#6495ED</color>
+    <color name="colorFog">#7C9194</color>
+    <color name="colorClearSkyDay">#7ECBDF</color>
+    <color name="colorClearSkyNight">#0E1330</color>
+    <color name="colorGale">#34454D</color>
+    <color name="colorBreeze">#9ABDC6</color>
+    <color name="colorCloudy">#D0E2ED</color>
+    <color name="colorHot">#FFDE00</color>
+    <color name="colorTransparentItem">#4DFFFFFF</color>
+</resources>
